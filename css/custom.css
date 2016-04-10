@@ -6,4 +6,6 @@
     background-repeat: no-repeat;
     color: white;
     min-height: 500px;
+h3 {
+    padding-bottom: 10px;
 }
