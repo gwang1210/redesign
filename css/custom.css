@@ -5,7 +5,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    min-height: 500px;
+    max-height: 500px;
 }
 .main-heading {
     margin-top: 450px;
