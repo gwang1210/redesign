@@ -14,5 +14,8 @@
 .subheading{
     margin-bottom: 30px;
 }
-
+#logo{
+    padding: 0px;
+    margin: 0px;
+}
 
